@@ -8,6 +8,7 @@ Metodos de strings
 Currículo e carta de apresentação
 Métodos de arrays
 Linkedin
+
 O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 Funções buscam armazenar uma determinada operação para que ela seja executada toda vez que a função for chamada.
 Os tipos de dados são aqueles usados pelo TypeScript para categorizar variáveis, como o tipo string, number, undefined, etc.
